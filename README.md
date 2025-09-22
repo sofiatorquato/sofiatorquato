@@ -49,6 +49,3 @@
 
 ---
 
-### 🐍 Contribuições
-<img src="https://github.com/sofiatorquato/sofiatorquato/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
