@@ -50,6 +50,5 @@
 ---
 
 ### 🐍 Contribuições
-<p align="center">
-  <img src="https://github.com/sofiatorquato/sofiatorquato/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<img src="https://github.com/sofiatorquato/sofiatorquato/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
