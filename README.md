@@ -10,7 +10,7 @@
 ### 🚀 Sobre mim
 - 🎓 Cursando **Engenharia de Software** na **Unicesumar**  
 - 💻 Formação **FullStack** pelo **PROA**  
-- 💡 Sempre explorando novas tecnologias e desafios no desenvolvimento  
+- 💡 Sempre exploro novas tecnologias e desafios no desenvolvimento  
 
 ---
 
