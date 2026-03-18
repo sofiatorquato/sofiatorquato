@@ -71,15 +71,6 @@
 
 ---
 
-## 🎯 Objetivo
-
-Busco uma oportunidade como **Desenvolvedora FullStack / Backend Júnior**, onde eu possa:
-- Aplicar meus conhecimentos na prática  
-- Aprender com profissionais experientes  
-- Contribuir com soluções reais  
-
----
-
 #
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sofiatorquato/sofiatorquato/output/github-contribution-grid-snake-dark.svg">
